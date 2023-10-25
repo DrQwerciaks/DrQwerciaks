@@ -90,7 +90,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=DrQwerciak)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31raxkwqbdbxe2an7ypbdwch2ebu)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DrQwerciaks&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

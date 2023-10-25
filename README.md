@@ -1,4 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=DrQwerciaks&label=Profile%20Views&color=12&icon=6&pretty=false)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm DrQwerciak</h1>
 <h3 align="center">A passionate WEB,UI developer from Poland</h3>
 
@@ -23,6 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=DrQwerciaks&label=Profile%20Views&color=12&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:

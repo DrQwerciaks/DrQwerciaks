@@ -90,6 +90,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31raxkwqbdbxe2an7ypbdwch2ebu&width={width})
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DrQwerciaks&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DrQwerciaks&theme=dark&hide_border=false)<br/>

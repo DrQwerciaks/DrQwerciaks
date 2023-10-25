@@ -90,6 +90,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
+# 🎵 Spotify:
+
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31raxkwqbdbxe2an7ypbdwch2ebu)
 
 # 📊 GitHub Stats:

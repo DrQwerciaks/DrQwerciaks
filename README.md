@@ -1,4 +1,27 @@
-<h2 align="left">Hi 👋! My name is DrQwerciak and I'm a Web,UI Developer, from Poland </h2>
+<h1 align="center">Hi 👋, I'm DrQwerciak</h1>
+<h3 align="center">A passionate WEB,UI developer from Poland</h3>
+
+- 🔭 I’m currently working on [Fusion Lab](FusionLab.pl)
+
+- 🌱 I’m currently learning **PHP,LUA,Mongodb,Raspberrypi**
+
+- 👯 I’m looking to collaborate on **Ui and page creation**
+
+- 🤝 I’m looking for help with **PHP!**
+
+- 👨‍💻 All of my projects are available at [drqwerciak.pl](drqwerciak.pl)
+
+- 💬 Ask me about **HTML/CSS**
+
+- 📫 How to reach me **help@drqwerciak.pl**
+
+- 📄 Know about my experiences [me.drqwerciak.pl](me.drqwerciak.pl)
+
+- ⚡ Fun fact **"Don't worry about failures, worry about the opportunities you miss when you don't even try." Jack Canfield**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 
 ## 🌐 Socials:

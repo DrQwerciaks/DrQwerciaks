@@ -26,7 +26,7 @@
 
 <!-- [Discord Profile](https://discord-readme-badge.vercel.app/api?id=<979989714272681984>) -->
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:979989714272681984)](https://discord.com/users/:979989714272681984)
+[![Discord Presence](https://lanyard.cnrad.dev/api/979989714272681984)](https://discord.com/users/979989714272681984)
 
 
 ## 🌐 Socials:

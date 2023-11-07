@@ -95,7 +95,7 @@
 # 🎵 Spotify:
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31raxkwqbdbxe2an7ypbdwch2ebu)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31raxkwqbdbxe2an7ypbdwch2ebu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=030303&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31raxkwqbdbxe2an7ypbdwch2ebu&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31raxkwqbdbxe2an7ypbdwch2ebu&cover_image=true&theme=default&show_offline=false&background_color=030303&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31raxkwqbdbxe2an7ypbdwch2ebu&redirect=true)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DrQwerciaks&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

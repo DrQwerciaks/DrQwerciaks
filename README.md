@@ -23,7 +23,7 @@
 <p align="left"></p>
 
 [![](https://visitcount.itsvg.in/api?id=DrQwerciaks&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
-<!-- [My Discord](https://discord-readme-badge.vercel.app/api?id=<979989714272681984>) -->
+<!- [My Discord](https://discord-readme-badge.vercel.app/api?id=<979989714272681984>) -->
 
 
 ## 🌐 Socials:

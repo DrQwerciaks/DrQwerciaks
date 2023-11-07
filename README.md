@@ -20,8 +20,8 @@
 - ⚡ Fun fact **"Don't worry about failures, worry about the opportunities you miss when you don't even try." Jack Canfield**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<p align="left"></p>
+
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=<979989714272681984>)
 
 

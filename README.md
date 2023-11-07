@@ -24,6 +24,9 @@
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=<979989714272681984>)
 
+<a href="https://discord.com/users/979989714272681984" target="_blank">
+    <img width="50%" align="right" alt="Discord Status" src="https://lanyard-profile-readme.vercel.app/api/979989714272681984?bg=161B22&borderRadius=5px%205px%200%200&animated=true&hideDiscrim=true&idleMessage=Probably%20doing%20something%20else...">
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.drqwerciak) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/drqwercik/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/drqwerciak/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/drqwerciak) 

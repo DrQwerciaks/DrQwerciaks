@@ -22,9 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<a href="https://discord.com/users/979989714272681984" target="_blank">
-    <img width="50%" align="right" alt="Discord Status" src="https://lanyard-profile-readme.vercel.app/api/979989714272681984?bg=161B22&borderRadius=5px%205px%200%200&animated=true&hideDiscrim=true&idleMessage=Probably%20doing%20something%20else...">
-[![](https://visitcount.itsvg.in/api?id=DrQwerciaks&label=Profile%20Views&color=12&icon=6&pretty=false)](https://visitcount.itsvg.in)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<979989714272681984>)
 
 
 ## 🌐 Socials:

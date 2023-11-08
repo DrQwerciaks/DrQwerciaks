@@ -9,15 +9,15 @@
 
 - 🤝 I’m looking for help with **PHP!**
 
-- 👨‍💻 All of my projects are available at [drqwerciak.pl](drqwerciak.pl)
+- 👨‍💻 All of my projects are available at [drqwerciak.pl](https://drqwerciak.pl)
 
 - 💬 Ask me about **HTML/CSS**
 
 - 📫 How to reach me **help@drqwerciak.pl**
 
-- 📄 Know about my experiences [me.drqwerciak.pl](me.drqwerciak.pl)
+- 📄 Know about my experiences [me.drqwerciak.pl](https://me.drqwerciak.pl)
 
-- 📶 powerful site [localhost.edu.pl](localhost.edu.pl)
+- 📶 powerful site [localhost.edu.pl](https://localhost.edu.pl)
 
 - ⚡ Fun fact **"Don't worry about failures, worry about the opportunities you miss when you don't even try." Jack Canfield**
 

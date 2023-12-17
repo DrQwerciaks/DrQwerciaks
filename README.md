@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Fusion Lab](FusionLab.pl) / [KoalaPL](koalapl.github.io)
 
+- 👪 My Friends [RudekAlone](https://github.com/RudekAlone), [Nemi](https://github.com/nemi333), [Vowki](https://github.com/vowki21)
+  
 - 🌱 I’m currently learning **PHP,LUA,Mongodb,Raspberrypi**
 
 - 👯 I’m looking to collaborate on **Ui and page creation**

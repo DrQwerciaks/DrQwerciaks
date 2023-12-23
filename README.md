@@ -28,6 +28,8 @@
 <!-- [Discord Profile](https://discord-readme-badge.vercel.app/api?id=<979989714272681984>) -->
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/979989714272681984)](https://discord.com/users/979989714272681984)
+![dricordv2](https://lanyard.cnrad.dev/api/979989714272681984?bg=00000500&amp;idleMessage=Currently%20Idle.&amp;animated=true&amp;borderRadius=20px&amp;theme=dark&amp;hide&amp;showDisplayName=false&amp;hideBadges=false&amp;hideStatus=false)
+
 
 
 ## 🌐 Socials:
@@ -123,8 +125,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DrQwerciaks&icon=0&color=0)](https://visitcount.itsvg.in)
-
-![dricordv2](https://lanyard.cnrad.dev/api/979989714272681984?bg=00000500&amp;idleMessage=Currently%20Idle.&amp;animated=true&amp;borderRadius=20px&amp;theme=dark&amp;hide&amp;showDisplayName=false&amp;hideBadges=false&amp;hideStatus=false)
 
   ## 💰 You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/DrQwerciak) 

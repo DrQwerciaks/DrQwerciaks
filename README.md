@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DrQwerciak</h1>
 <h3 align="center">A passionate WEB,UI developer from Poland</h3>
 
-- 🔭 I’m currently working on [Fusion Lab](FusionLab.pl) / [KoalaPL](koalapl.github.io)
+- 🔭 I’m currently working on [Fusion Lab](FusionLab.pl) / [KoalaPL](koalapl.github.io) / [KoalaV](https://github.com/Edu-Koala-V)
 
 - 👪 My Friends [RudekAlone](https://github.com/RudekAlone), [Nemi](https://github.com/nemi333), [Vowki](https://github.com/vowki21)
   

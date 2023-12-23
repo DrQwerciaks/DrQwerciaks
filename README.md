@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [me.drqwerciak.pl](https://me.drqwerciak.pl)
 
-- 📶 powerful site [localhost.edu.pl](https://localhost.edu.pl)
+- 📶 powerful site [localhost.edu.pl](https://localhost.edu.pl) / [DiscordPorf](https://drqwerciakorg.github.io/Discord-Web/)
 
 - ⚡ Fun fact **"Don't worry about failures, worry about the opportunities you miss when you don't even try." Jack Canfield**
 

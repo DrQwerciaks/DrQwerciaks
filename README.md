@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on [Fusion Lab](FusionLab.pl) / [KoalaPL](koalapl.github.io) / [KoalaV](https://github.com/Edu-Koala-V)
 
 - 👪 My Friends [RudekAlone](https://github.com/RudekAlone), [Nemi](https://github.com/nemi333), [Vowki](https://github.com/vowki21)
+
+- 🐲 Currently I aspire to become  word creator for unreal engine and create your own game
   
 - 🌱 I’m currently learning **PHP,LUA,Mongodb,Raspberrypi**
 

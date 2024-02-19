@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [me.drqwerciak.pl](https://me.drqwerciak.pl)
 
-- 📶 powerful site [localhost.edu.pl](https://localhost.edu.pl) / [DiscordPorf](https://drqwerciakorg.github.io/Discord-Web/)
+- 📶 powerful site [localhost.edu.pl](https://localhost.edu.pl) / [DiscordPorf](https://drqwerciakorg.github.io/Discord-Web/) / [SugarWeb](https://suggar.eu/)
 
 - ⚡ Fun fact **"Don't worry about failures, worry about the opportunities you miss when you don't even try." Jack Canfield**
 

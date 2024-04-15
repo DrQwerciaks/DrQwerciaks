@@ -7,7 +7,7 @@
 
 - 🐲 Currently I aspire to become  word creator for unreal engine and create your own game
   
-- 🌱 I’m currently learning **PHP,LUA,Mongodb,Raspberrypi**
+- 🌱 I’m currently learning **Network Topology, Cyber Security**
 
 - 👯 I’m looking to collaborate on **Ui and page creation**
 

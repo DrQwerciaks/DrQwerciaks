@@ -130,6 +130,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=DrQwerciaks&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<a href="https://info.flagcounter.com/x11H"><img src="https://s11.flagcounter.com/map/x11H/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+
   ## 💰 You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/DrQwerciak) 
 

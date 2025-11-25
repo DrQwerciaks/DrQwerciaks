@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [koalapl.github.io](https://github.com/koalaPL) / [KoalaV](https://github.com/Edu-Koala-V) / [Gripe Studio](https://github.com/Gripe-Studio) / [Furry Poland](https://github.com/FurryPolska) / [Teb Gdańsk](https://github.com/Teb-Gdansk)
 
-- 👪 My Friends [RudekAlone](https://github.com/RudekAlone), [Nemi](https://github.com/nemi333), [Vowki](https://github.com/vowki21), [Szefit0](https://github.com/Szefit0)
+- 👪 My Friends [RudekAlone](https://github.com/RudekAlone)
 
 - 🐲 Currently I aspire to become  word creator for unreal engine and create your own game
   

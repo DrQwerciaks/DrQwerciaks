@@ -100,11 +100,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
-# 🎵 Spotify:
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31raxkwqbdbxe2an7ypbdwch2ebu)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31raxkwqbdbxe2an7ypbdwch2ebu&cover_image=true&theme=default&show_offline=false&background_color=030303&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31raxkwqbdbxe2an7ypbdwch2ebu&redirect=true)
-
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DrQwerciaks&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />

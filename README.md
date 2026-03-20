@@ -77,8 +77,7 @@ STATUS      : ⚡ Always building something
 ## `> wakatime_stats --weekly`
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=DrQwerciaks&theme=tokyonight&hide_border=true&title_color=00f5ff&text_color=c9d1d9&bg_color=0d1117&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=DrQwerciak&theme=tokyonight&hide_border=true&title_color=00f5ff&text_color=c9d1d9&bg_color=0d1117&layout=compact" />
 
 <!--START_SECTION:waka-->
 <!-- WakaTime stats auto-update — patrz konfiguracja niżej -->
@@ -133,6 +132,9 @@ Jeśli moje projekty ci się przydały albo po prostu chcesz wesprzeć kawą noc
 </div>
 
 ---
+
+
+[![](https://visitcount.itsvg.in/api?id=DrQwerciaks&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <details>
 <summary><code>> wakatime_setup --instructions</code></summary>

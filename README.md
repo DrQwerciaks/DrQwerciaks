@@ -101,10 +101,9 @@ STATUS      : ⚡ Always building something
 
 <div align="center">
 
-Jeśli moje projekty ci się przydały albo po prostu chcesz wesprzeć kawą nocne sesje przy klawiaturze 🌙
+If you found my projects helpful, or if you just want to buy me a coffee to fuel my late-night coding sessions 🌙
 
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/DrQwerciaks)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/DrQwerciaks)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/DrQwerciak)
 
 </div>
 

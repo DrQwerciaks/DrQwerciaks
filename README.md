@@ -1,134 +1,166 @@
-<h1 align="center">Hi 👋, I'm DrQwerciak</h1>
-<h3 align="center">A passionate WEB,UI developer from Poland</h3>
-
-- 🔭 I’m currently working on [koalapl.github.io](https://github.com/koalaPL) / [KoalaV](https://github.com/Edu-Koala-V) / [Gripe Studio](https://github.com/Gripe-Studio) / [Furry Poland](https://github.com/FurryPolska) / [Teb Gdańsk](https://github.com/Teb-Gdansk)
-
-- 👪 My Friends [RudekAlone](https://github.com/RudekAlone)
-
-- 🐲 Currently I aspire to become  word creator for unreal engine and create your own game
-  
-- 🌱 I’m currently learning **Network Topology, Cyber Security**
-
-- 👯 I’m looking to collaborate on **Ui and page creation**
-
-- 🤝 I’m looking for help with **PHP!**
-
-- 👨‍💻 All of my projects are available at [drqwerciak.pl](https://drqwerciak.pl)
-
-- 💬 Ask me about **HTML/CSS**
-
-- 📫 How to reach me **help@drqwerciak.pl**
-
-- 📄 Know about my experiences [me.drqwerciak.pl](https://me.drqwerciak.pl)
-
-- 📶 powerful site [localhost.edu.pl](https://localhost.edu.pl) / [DiscordPorf](https://drqwerciakorg.github.io/Discord-Web/) / [SugarWeb](https://suggar.eu/)
-
-- ⚡ Fun fact **"Don't worry about failures, worry about the opportunities you miss when you don't even try." Jack Canfield**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left"></p>
-<!-- [Discord Profile](https://discord-readme-badge.vercel.app/api?id=<979989714272681984>) -->
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/979989714272681984)](https://discord.com/users/979989714272681984)
-![dricordv2](https://lanyard.cnrad.dev/api/979989714272681984?bg=00000500&amp;idleMessage=Currently%20Idle.&amp;animated=true&amp;borderRadius=20px&amp;theme=dark&amp;hide&amp;showDisplayName=false&amp;hideBadges=false&amp;hideStatus=false)
-
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.drqwerciak) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/drqwercik/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/drqwerciak/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/drqwerciak) [![](https://visitcount.itsvg.in/api?id=DrQwerciaks&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
-
-# 💻 Tech Stack:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="30" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-plain.svg" height="30" alt="woocommerce logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" height="30" alt="devicon logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" height="30" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-</div>
-
-# 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrQwerciaks&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DrQwerciaks&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=DrQwerciaks&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+```
+██████╗ ██████╗  ██████╗ ██╗    ██╗███████╗██████╗  ██████╗██╗ █████╗ ██╗  ██╗███████╗
+██╔══██╗██╔══██╗██╔═══██╗██║    ██║██╔════╝██╔══██╗██╔════╝██║██╔══██╗██║ ██╔╝██╔════╝
+██║  ██║██████╔╝██║   ██║██║ █╗ ██║█████╗  ██████╔╝██║     ██║███████║█████╔╝ ███████╗
+██║  ██║██╔══██╗██║▄▄ ██║██║███╗██║██╔══╝  ██╔══██╗██║     ██║██╔══██║██╔═██╗ ╚════██║
+██████╔╝██║  ██║╚██████╔╝╚███╔███╔╝███████╗██║  ██║╚██████╗██║██║  ██║██║  ██╗███████║
+╚═════╝ ╚═╝  ╚═╝ ╚══▀▀═╝  ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=IT+Technician+%26+Cloud+Enthusiast;Freelancer+%40+Qwerionet;Self-hosted+Infrastructure+Nerd;Building+things+that+shouldn't+exist+👾)](https://git.io/typing-svg)
+
 </div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DrQwerciaks&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DrQwerciaks&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 🕰️ WakaTime stats
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=DrQwerciak)](https://github.com/drqwerciaks)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
+
+## `> whoami`
+
+```bash
+$ cat /etc/bartosz.conf
+
+NAME        : Bartosz (DrQwerciaks)
+LOCATION    : Pruszcz Gdański, Poland 🇵🇱
+ROLE        : IT Technician | Freelancer | Homelab Enthusiast
+COMPANY     : Qwerionet — IT services for SMBs
+EDUCATION   : Technik Informatyk (Cloud Technologies spec.)
+STATUS      : ⚡ Always building something
+```
+
+- 🖥️ Prowadzę **[Qwerionet](https://github.com/DrQwerciaks)** — wsparcie IT, migracje do chmury, audyty bezpieczeństwa i custom PC builds dla małych firm
+- 🏠 Zarządzam własnym homelab: **Proxmox + Docker + 32GB RAM + 8TB RAID**
+- ☁️ Specjalizuję się w **cloud technologies** i infrastrukturze
+- 🎓 4. rok technikum informatycznego, ścieżka chmurowa
+- 🔭 Aktualnie pracuję nad kilkoma projektami naraz, bo inaczej byłoby nudno
+
+---
+
+## `> tech_stack --list`
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### ⚙️ Backend
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 🎮 Game Dev
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+### 🛠️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## `> github_stats --verbose`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DrQwerciaks&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00f5ff&icon_color=00f5ff&text_color=c9d1d9&bg_color=0d1117" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DrQwerciaks&theme=tokyonight&hide_border=true&stroke=00f5ff&ring=00f5ff&fire=ff4d4d&currStreakLabel=00f5ff&background=0d1117&sideLabels=c9d1d9&dates=8b949e" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrQwerciaks&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=00f5ff&text_color=c9d1d9&bg_color=0d1117" width="40%" />
+
+</div>
+
+---
+
+## `> wakatime_stats --weekly`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=DrQwerciaks&theme=tokyonight&hide_border=true&title_color=00f5ff&text_color=c9d1d9&bg_color=0d1117&layout=compact" />
+
+<!--START_SECTION:waka-->
+<!-- WakaTime stats auto-update — patrz konfiguracja niżej -->
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+## `> activity --graph`
+
+<div align="center">
+
+[![Bartek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DrQwerciaks&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ff4d4d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## `> contact --social`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/DrQwerciaks)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/DrQwerciaks)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DrQwerciaks)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kontakt@qwerionet.pl)
+
+</div>
+
+---
+
+## `> support --buy_coffee`
+
+<div align="center">
+
+Jeśli moje projekty ci się przydały albo po prostu chcesz wesprzeć kawą nocne sesje przy klawiaturze 🌙
+
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/DrQwerciaks)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/DrQwerciaks)
+
+</div>
+
+---
+
+<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=DrQwerciaks&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href="https://info.flagcounter.com/x11H"><img src="https://s11.flagcounter.com/map/x11H/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+*„The best error message is the one that never shows up."*
 
-  ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/DrQwerciak) 
+</div>
 
-  https://koala-v.rf.gd/
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<details>
+<summary><code>> wakatime_setup --instructions</code></summary>
+
+### Jak aktywować automatyczne WakaTime stats
+
+1. Zainstaluj [WakaTime](https://wakatime.com) plugin w swoim IDE
+2. Stwórz plik `.github/workflows/waka-readme.yml` w repo profilu:
+
+```yaml
+name: Waka Readme
+
+on:
+  schedule:
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+```
+
+3. Dodaj `WAKATIME_API_KEY` i `GH_TOKEN` w Settings → Secrets repozytorium
+
+</details>

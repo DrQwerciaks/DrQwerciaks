@@ -28,11 +28,11 @@ EDUCATION   : Technik Informatyk (Cloud Technologies spec.)
 STATUS      : ⚡ Always building something
 ```
 
-- 🖥️ Prowadzę **[Qwerionet](https://github.com/DrQwerciaks)** — wsparcie IT, migracje do chmury, audyty bezpieczeństwa i custom PC builds dla małych firm
-- 🏠 Zarządzam własnym homelab: **Proxmox + Docker + 32GB RAM + 8TB RAID**
-- ☁️ Specjalizuję się w **cloud technologies** i infrastrukturze
-- 🎓 4. rok technikum informatycznego, ścieżka chmurowa
-- 🔭 Aktualnie pracuję nad kilkoma projektami naraz, bo inaczej byłoby nudno
+- 🖥️ I run **[Qwerionet](https://github.com/DrQwerciaks)** — IT support, cloud migrations, security audits, and custom PC builds for small businesses
+- 🏠 I manage my own home lab: **Proxmox + Docker + 32GB RAM + 8TB RAID**
+- ☁️ I specialize in **cloud technologies** and infrastructure
+- 🎓 4th year of IT technical school, cloud track
+- 🔭 I’m currently working on several projects at once, because otherwise it would be boring
 
 ---
 

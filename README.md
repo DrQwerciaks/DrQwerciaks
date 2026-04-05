@@ -121,33 +121,3 @@ If you found my projects helpful, or if you just want to buy me a coffee to fuel
 
 
 
-<details>
-<summary><code>> wakatime_setup --instructions</code></summary>
-
-### Jak aktywować automatyczne WakaTime stats
-
-1. Zainstaluj [WakaTime](https://wakatime.com) plugin w swoim IDE
-2. Stwórz plik `.github/workflows/waka-readme.yml` w repo profilu:
-
-```yaml
-name: Waka Readme
-
-on:
-  schedule:
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-```
-
-3. Dodaj `WAKATIME_API_KEY` i `GH_TOKEN` w Settings → Secrets repozytorium
-
-</details>
